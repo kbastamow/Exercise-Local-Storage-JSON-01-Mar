@@ -1,0 +1,38 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 45px 50px;
+
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    padding: 5px;
+    border-color: blue;
+}
+
+button {
+    margin: 15px;
+    padding: 15px;
+    color: white;
+    border: 2px solid grey;
+    border-radius: 15px;
+    font-weight: bold;
+    box-shadow: 3px 3px 3px grey;
+}
+
+#btn {
+    background-color: green;
+
+}
+
+#btnClear {
+    background-color: red;
+}
